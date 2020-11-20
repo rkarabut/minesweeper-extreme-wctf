@@ -1,0 +1,4 @@
+Important! Use python3.7, later versions break pyautogui on Windows
+
+python3.7 -m pip install pyautogui
+python3.7 sol.py

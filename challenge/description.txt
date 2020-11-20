@@ -1,0 +1,22 @@
+Welcome to Minesweeper EXTREME!
+
+Now with EXTREME updates such as:
+    10x MORE MINES!
+    6 NEW DIFFICULTY LEVELS!
+    ILLUSTRIOUS DEBUG OUTPUT!
+    ANIMATION PERFORMANCE IMPROVEMENTS!
+    ADDITIONAL REMOTE DESKTOP SUPPORT!
+    FLAG REWARDS FOR THE FORTUNATE WINNERS!
+
+Press Ctrl-1 through Ctrl-7 to start a new game of corresponding difficulty:
+    Ctrl-1  Novice
+    Ctrl-2  Apprentice
+    Ctrl-3  Journeyman
+    Ctrl-4  Advanced
+    Ctrl-5  Professional
+    Ctrl-6  Expert
+    Ctrl-7  Master
+    
+Original game by Robert Mikhayelyan is hosted at https://github.com/robmikh/minesweeper-rs
+
+Note: the game being hosted as a RemoteApp should take care of most connectivity issues, but switching to a VPN closer to the server is advisable in case of particular instabilities.
